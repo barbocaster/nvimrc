@@ -5,6 +5,7 @@ return {
 
     config = function()
         require("tokyonight").setup({
+            transparent = "true"
             style = "night"
         })
 
